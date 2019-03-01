@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b7b9d54519cd133dd741",
+    "revision": "71ad133c22ede7417cae",
     "url": "/jsondiffpatch-by-url/static/css/main.b62b3c3c.chunk.css"
   },
   {
-    "revision": "b7b9d54519cd133dd741",
-    "url": "/jsondiffpatch-by-url/static/js/main.b7b9d545.chunk.js"
+    "revision": "71ad133c22ede7417cae",
+    "url": "/jsondiffpatch-by-url/static/js/main.71ad133c.chunk.js"
   },
   {
     "revision": "02e363918283a384eaae",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/jsondiffpatch-by-url/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "9284113e7560564770afd9b58ec1a372",
+    "revision": "0dd206f1727dc52f942d5926318e4f33",
     "url": "/jsondiffpatch-by-url/index.html"
   }
 ];

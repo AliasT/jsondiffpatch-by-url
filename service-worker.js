@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jsondiffpatch-by-url/precache-manifest.987acd0ebb96d8b678bfde55daceef1b.js"
+  "/jsondiffpatch-by-url/precache-manifest.319e88d59c7d843b30e21737cd631927.js"
 );
 
 workbox.clientsClaim();
