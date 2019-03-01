@@ -17,8 +17,7 @@ class App extends Component {
   state = {
     leftJson: "",
     rightJson: "",
-    left:
-      "/api/community/compose/get-all-compose-list?type=hot&page=1&pageSize=20",
+    left: "/api/community/compose/get-all-compose-list?page=1",
     right: ""
   }
 
