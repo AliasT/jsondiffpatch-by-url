@@ -18,7 +18,7 @@ class App extends Component {
     leftJson: "",
     rightJson: "",
     left:
-      "https://courseapi.xiaoma.cn/api/community/compose/get-all-compose-list?type=hot&page=1&pageSize=20",
+      "/api/community/compose/get-all-compose-list?type=hot&page=1&pageSize=20",
     right: ""
   }
 

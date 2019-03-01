@@ -2,9 +2,11 @@
   "name": "jsondiff",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aliast.github.io/jsondiffpatch-by-url",
   "dependencies": {
     "axios": "^0.18.0",
     "codemirror": "^5.44.0",
+    "gh-pages": "^2.0.1",
     "jsondiffpatch": "^0.3.11",
     "react": "^16.8.3",
     "react-codemirror": "^1.0.0",
@@ -15,6 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
