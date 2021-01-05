@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://aliast.github.io/jsondiffpatch-by-url",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "codemirror": "^5.44.0",
     "gh-pages": "^2.0.1",
     "jsondiffpatch": "^0.3.11",
