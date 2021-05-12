@@ -5,7 +5,7 @@
   "homepage": "https://aliast.github.io/jsondiffpatch-by-url",
   "dependencies": {
     "axios": "^0.18.0",
-    "codemirror": "^5.44.0",
+    "codemirror": "^5.58.2",
     "gh-pages": "^2.0.1",
     "jsondiffpatch": "^0.3.11",
     "react": "^16.8.3",
